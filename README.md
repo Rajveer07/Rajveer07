@@ -1,4 +1,4 @@
-<h1 align="center" >Pleased to make your acquaintance, I go by the name Rajveer Anand</span>.</h1>
+<h1 align="center" >Pleased to make your acquaintance, I go by the name Rajveer Anand.</h1>
 <h3 align="center">An enthusiast in ML and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajveer07&label=Profile%20views&color=0e75b6&style=flat" alt="rajveer07" /> </p>
@@ -15,8 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/rajveeranand27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajveeranand27" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/satyaveer72anand/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyaveer72anand/profile" height="30" width="40" /></a>
+<a href="https://instagram.com/rajveeranand27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajveeranand27" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/satyaveer72anand/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyaveer72anand/profile" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajveer-anand-445759252/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" align="center"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
