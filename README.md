@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **satyaveer72.anand@gmail.com**
 
-- ⚡ Fun fact **Lal button dabane se plane (✈︎) ka main engine band ho jata hai.**
+- ⚡ Fun fact **Red 🔴 button dabane se plane (✈︎) ka main engine band ho jata hai.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
