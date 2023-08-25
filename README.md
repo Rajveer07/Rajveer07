@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1vBqswM9a7QDXqcjtZS4AF8HAZ3NHXLpd/view?usp=sharing">
+ <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1jXlHpIc6tr5UNd6zf8tyIbx4rGVQMrGg/view?usp=sharing">
+ <img alt="YOUR-ALT-TEXT" src="https://drive.google.com/file/d/1vBqswM9a7QDXqcjtZS4AF8HAZ3NHXLpd/view?usp=sharing">
+</picture>
