@@ -37,7 +37,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajveer07&" alt="rajveer07" /></p>
 
-<p align="center">Hacktoberfest 2023</p>
+<h3 align="center">Hacktoberfest 2023</h3>
 <img align="center" src="https://holopin.me/rajveer07" />
 
 
