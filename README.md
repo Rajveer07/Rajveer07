@@ -37,7 +37,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajveer07&" alt="rajveer07" /></p>
 [![An image of @rajveer07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajveer07)](https://holopin.io/@rajveer07)
-<img align="center" src="[https://github-readme-stats.vercel.app/api?username=rajveer07&show_icons=true&locale=en](https://holopin.io/@rajveer07)https://holopin.io/@rajveer07" alt="rajveer07" />
+<img align="center" src="https://holopin.me/rajveer07" />
 
 
 
